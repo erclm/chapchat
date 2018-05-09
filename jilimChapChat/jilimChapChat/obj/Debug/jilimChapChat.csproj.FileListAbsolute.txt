@@ -1,0 +1,22 @@
+c:\users\eric\documents\visual studio 2015\Projects\jilimChapChat\jilimChapChat\bin\Debug\jilimChapChat.exe.config
+c:\users\eric\documents\visual studio 2015\Projects\jilimChapChat\jilimChapChat\bin\Debug\jilimChapChat.exe
+c:\users\eric\documents\visual studio 2015\Projects\jilimChapChat\jilimChapChat\bin\Debug\jilimChapChat.pdb
+c:\users\eric\documents\visual studio 2015\Projects\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2015\Projects\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.Form1.resources
+c:\users\eric\documents\visual studio 2015\Projects\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.LoginForm.resources
+c:\users\eric\documents\visual studio 2015\Projects\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2015\Projects\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.csproj.GenerateResource.Cache
+c:\users\eric\documents\visual studio 2015\Projects\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.exe
+c:\users\eric\documents\visual studio 2015\Projects\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.pdb
+C:\Users\Eric\Downloads\jilimChapChat\jilimChapChat\jilimChapChat\bin\Debug\jilimChapChat.exe.config
+C:\Users\Eric\Downloads\jilimChapChat\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.exe
+C:\Users\Eric\Downloads\jilimChapChat\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.pdb
+C:\Users\Eric\Downloads\jilimChapChat\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Downloads\jilimChapChat\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.Form1.resources
+C:\Users\Eric\Downloads\jilimChapChat\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.LoginForm.resources
+C:\Users\Eric\Downloads\jilimChapChat\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.Properties.Resources.resources
+C:\Users\Eric\Downloads\jilimChapChat\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.csproj.GenerateResource.Cache
+C:\Users\Eric\Downloads\jilimChapChat\jilimChapChat\jilimChapChat\bin\Debug\jilimChapChat.exe
+C:\Users\Eric\Downloads\jilimChapChat\jilimChapChat\jilimChapChat\bin\Debug\jilimChapChat.pdb
+C:\Users\Eric\Downloads\jilimChapChat\jilimChapChat\jilimChapChat\bin\Debug\ChapNet.dll
+C:\Users\Eric\Downloads\jilimChapChat\jilimChapChat\jilimChapChat\obj\Debug\jilimChapChat.Settings.resources
