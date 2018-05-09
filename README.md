@@ -1,5 +1,5 @@
 # visualprogramming
-visual programming final
+visual programming cpsc236 final
 
 please dont copy this code sucks
 
