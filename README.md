@@ -1,6 +1,8 @@
-# visualprogramming
-visual programming cpsc236 final
+# ChapChat - simple LAN chatter
+Developed on Visual Studio
+username to log in, simple chatter app
 
-please dont copy this code sucks
-
-by Eric Lim
+## Features
+- Profanity filter
+- Login feature
+- LAN operation
